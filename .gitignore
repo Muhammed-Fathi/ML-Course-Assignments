@@ -1,0 +1,22 @@
+# Python/Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Local data and generated outputs (do NOT push Kaggle auth credentials)
+data/*
+!data/README.md
+outputs/
+.kaggle/
+kaggle.json
+
+# Operating system/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
