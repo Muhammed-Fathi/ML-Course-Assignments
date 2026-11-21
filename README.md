@@ -63,4 +63,6 @@ Data acquisition and exact destination folders are documented in `data/README.md
 
 ## Current status
 
-Starter repository only. No model notebooks or evaluation results have been produced yet.
+- **Completed and merged:** Assignment 1 / Task 1 (PR #1).
+- **Completed and submitted for review:** Assignment 2 / Task 1. The from-scratch Gradient Descent notebook has been executed on the 47-row Canada dataset; this PR is awaiting review.
+- **Not started:** Assignment 2 / Task 2 and Assignment 3 / Tasks 1–2.
