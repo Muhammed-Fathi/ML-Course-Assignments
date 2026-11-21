@@ -63,6 +63,6 @@ Data acquisition and exact destination folders are documented in `data/README.md
 
 ## Current status
 
-- **Completed and merged:** Assignment 1 / Task 1 (PR #1) and Assignment 2 / Task 1 (PR #2).
-- **Completed and submitted for review:** Assignment 2 / Task 2. The Multiple Linear Regression notebook (`assignments/assignment_02/notebooks/02_customer_loyalty_regression.ipynb`) has been executed on the 238-row Customer Purchasing Behaviors dataset; this PR is awaiting review.
-- **Not started:** Assignment 3 / Tasks 1–2.
+- **Completed and merged:** Assignment 1 / Task 1 (PR #1), Assignment 2 / Task 1 (PR #2), and Assignment 2 / Task 2 (PR #3).
+- **Completed and submitted for review:** Assignment 3 / Task 1 (`assignments/assignment_03/notebooks/01_ice_cream_regression_comparison.ipynb`). Executed on the 49-row Ice Cream Selling dataset comparing Simple Linear Regression against degree-2 Polynomial Regression; this PR is awaiting review.
+- **Not started:** Assignment 3 / Task 2.
