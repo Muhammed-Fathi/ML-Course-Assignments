@@ -65,4 +65,4 @@ Data acquisition and exact destination folders are documented in `data/README.md
 
 - **Completed and merged:** Assignment 1 / Task 1 (PR #1), Assignment 2 / Task 1 (PR #2), and Assignment 2 / Task 2 (PR #3).
 - **Completed and submitted for review:** Assignment 3 / Task 1 (`assignments/assignment_03/notebooks/01_ice_cream_regression_comparison.ipynb`). Executed on the 49-row Ice Cream Selling dataset comparing Simple Linear Regression against degree-2 Polynomial Regression; this PR is awaiting review.
-- **Not started:** Assignment 3 / Task 2.
+- **Completed and submitted for review:** Assignment 3 / Task 2 (`assignments/assignment_03/notebooks/02_titanic_survival_classification.ipynb`). Executed on the Titanic competition data (891 train / 418 test); Logistic Regression pipeline (7 features, median/mode imputation + OneHot + StandardScaler, stratified 80/20 split, random_state=42) achieved 80.45% accuracy, 79.31% precision, 66.67% recall, 72.44% F1 on held-out validation (n=179); generated validated `outputs/assignment_03/titanic_submission.csv` (418 rows, PassengerId + Survived); notebook runs end-to-end on Windows CPU with repository dependencies.
